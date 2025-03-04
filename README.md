@@ -1,6 +1,7 @@
-<head>  <style>/* Ocultar cualquier texto no deseado */
-body > div:first-child {
+<head> /* Ocultar el texto del nombre del repositorio */
+.repository-name {
     display: none;
+}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
