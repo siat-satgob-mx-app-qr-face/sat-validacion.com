@@ -2,7 +2,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
-    <style>
+    <style>/* Ocultar cualquier texto no deseado */
+body > div:first-child {
+    display: none;
+}
         body {
             font-family: Arial, sans-serif;
             background: #f8f5f0; /* Fondo sólido sin gradiente */
