@@ -1,4 +1,6 @@
-<head> /* Ocultar el texto del nombre del repositorio */
+<head> 
+ </style>
+/* Ocultar el texto del nombre del repositorio */
 .repository-name {
     display: none;
 }
